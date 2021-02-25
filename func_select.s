@@ -1,4 +1,3 @@
-# 205616634 eldar shlomi
 .data
 .section .rodata
 
