@@ -1,6 +1,3 @@
-# 205616634 eldar shlomi
-
-
 .data
 .section .rodata
     error_message: .string "invalid input!\n"
